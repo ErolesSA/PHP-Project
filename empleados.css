@@ -1,0 +1,19 @@
+div#message{
+    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
+    width:40%;
+    border: solid 2px green;
+}
+
+table {
+    border-collapse: collapse;
+    width: 320px;
+    }
+tr.heading {
+    font-weight: bolder;
+    }
+td {
+    border: 1px solid black;
+    padding: 0 0.5em;
+    }
