@@ -1,0 +1,31 @@
+
+h1 {
+    font-size:  50px;
+    text-align: center;
+    margin: 25px;
+    color: white;
+    
+}
+
+.container {
+   
+
+    font-size:  25px;
+    background-color:;
+    color:  white;
+    display: block;
+    border: 2px solid white;
+    padding: 35px;
+
+    border-radius: 20px;
+}
+
+#parallax-image{
+    background-image: url("./img/1.gif");
+    height: 650px;
+    margin-bottom: 30px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
